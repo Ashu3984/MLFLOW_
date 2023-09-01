@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/ashut/PycharmProjects/MLFLOW_/mlruns/0/792bf626f65d40d69e4edd45a009b414/artifacts
+end_time: 1693549760766
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 792bf626f65d40d69e4edd45a009b414
+run_name: defiant-snake-617
+run_uuid: 792bf626f65d40d69e4edd45a009b414
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1693549754664
+status: 3
+tags: []
+user_id: ashut

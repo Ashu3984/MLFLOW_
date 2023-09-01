@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/ashut/PycharmProjects/MLFLOW_/mlruns/0/5e9f0c8da0b44e3aa82381d56692b94f/artifacts
+end_time: 1693549791694
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 5e9f0c8da0b44e3aa82381d56692b94f
+run_name: big-gnu-746
+run_uuid: 5e9f0c8da0b44e3aa82381d56692b94f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1693549785815
+status: 3
+tags: []
+user_id: ashut

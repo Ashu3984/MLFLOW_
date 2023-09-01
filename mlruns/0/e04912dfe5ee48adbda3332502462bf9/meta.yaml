@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/ashut/PycharmProjects/MLFLOW_/mlruns/0/e04912dfe5ee48adbda3332502462bf9/artifacts
+end_time: 1693549740410
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: e04912dfe5ee48adbda3332502462bf9
+run_name: merciful-skunk-909
+run_uuid: e04912dfe5ee48adbda3332502462bf9
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1693549734308
+status: 3
+tags: []
+user_id: ashut

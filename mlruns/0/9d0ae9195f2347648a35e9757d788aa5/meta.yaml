@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/ashut/PycharmProjects/MLFLOW_/mlruns/0/9d0ae9195f2347648a35e9757d788aa5/artifacts
+end_time: 1693549054363
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 9d0ae9195f2347648a35e9757d788aa5
+run_name: placid-goat-972
+run_uuid: 9d0ae9195f2347648a35e9757d788aa5
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1693549045452
+status: 3
+tags: []
+user_id: ashut

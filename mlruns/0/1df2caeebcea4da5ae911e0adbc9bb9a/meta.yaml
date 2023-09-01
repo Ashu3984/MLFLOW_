@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/ashut/PycharmProjects/MLFLOW_/mlruns/0/1df2caeebcea4da5ae911e0adbc9bb9a/artifacts
+end_time: 1693549775314
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 1df2caeebcea4da5ae911e0adbc9bb9a
+run_name: incongruous-vole-449
+run_uuid: 1df2caeebcea4da5ae911e0adbc9bb9a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1693549769328
+status: 3
+tags: []
+user_id: ashut
